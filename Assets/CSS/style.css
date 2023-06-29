@@ -17,7 +17,8 @@
     width: 100%;
     padding: 40px;
     position: relative;
-    right: 20px;  
+    right: 20px; 
+    text-align: center;
     
   }
   
@@ -26,6 +27,7 @@
     
     &:not(:last-of-type) {
       margin-bottom: 5px;
+         text-align: center;
     }
     
     iframe {
